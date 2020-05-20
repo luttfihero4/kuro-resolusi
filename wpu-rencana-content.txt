@@ -6,6 +6,7 @@ RENCANA KONTEN KURO
   * Framework
     ^ ReactJS
     ^ VueJS
+    ^ Angular
 - PHP Framework
     ^  Laravel
 - Struktur data dasar
