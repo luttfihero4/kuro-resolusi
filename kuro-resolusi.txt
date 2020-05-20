@@ -2,5 +2,5 @@ Kuro's Resolusi :
 - Belajar HTML, CSS, dan Javascript Dasar
 - Kuasai PHP Dasar
 - Pelajari Framework
-- Membuat Website Sederhana
 - Membuat E-commerce Jastip
+- Survey Userflow
