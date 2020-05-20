@@ -3,6 +3,8 @@ RENCANA KONTEN KURO
 - CSS3
 - Javascript
   * ES6
-  * ReactJs
+  * Framework
+    ^ ReactJS
+    ^ VanillaJS
 - PHP Framework
-- Struktur data dasar
+  * Laravel
