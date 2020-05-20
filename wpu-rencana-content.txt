@@ -5,6 +5,9 @@ RENCANA KONTEN KURO
   * ES6
   * Framework
     ^ ReactJS
-    ^ VanillaJS
+    ^ VueJS
 - PHP Framework
-  * Laravel
+    ^  Laravel
+- Struktur data dasar
+- Phyton
+
