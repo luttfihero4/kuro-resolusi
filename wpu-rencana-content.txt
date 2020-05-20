@@ -1,0 +1,5 @@
+RENCANA KONTEN KURO
+- HTML5
+- CSS3
+- ReactJS
+- PHP Framework
