@@ -5,3 +5,4 @@ RENCANA KONTEN KURO
   * ES6
   * ReactJs
 - PHP Framework
+- Struktur data dasar
